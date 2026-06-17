@@ -1,12 +1,12 @@
 # Agile Cards
 
-![banner image](https://agile.sourmayo.com/banner.png)
+![banner image](https://agile.labs.relvas.me/banner.png)
 
 I built this little web app to replace my agile planning cards in the case of forgetting them.
 
 It has a selection of cards that are commonly used during planning sessions in scrum or agile.
 
-Check it out at [https://agile.sourmayo.com/](https://agile.sourmayo.com/)!
+Check it out at [https://agile.labs.relvas.me/](https://agile.labs.relvas.me/)!
 
 ## Project
 
